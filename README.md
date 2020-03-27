@@ -7,6 +7,8 @@ Contribuindo via git teste!
 Link do Curso [Python Pro ] (https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/LeandroBP/libpythonpro.svg?branch=master)](https://travis-ci.org/LeandroBP/libpythonpro)
+[![Updates](https://pyup.io/repos/github/LeandroBP/libpythonpro/shield.svg)](https://pyup.io/repos/github/LeandroBP/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/LeandroBP/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/LeandroBP/libpythonpro/)
 
 Suportada a versão 3 do Python
 
