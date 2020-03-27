@@ -6,6 +6,8 @@ Contribuindo via git teste!
 
 Link do Curso [Python Pro ] (https://www.python.pro.br/)
 
+[![Build Status](https://travis-ci.org/LeandroBP/libpythonpro.svg?branch=master)](https://travis-ci.org/LeandroBP/libpythonpro)
+
 Suportada a versão 3 do Python
 
 Para instalar:
